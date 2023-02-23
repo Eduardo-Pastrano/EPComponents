@@ -14,7 +14,7 @@ const NavBar = () => {
                     </Tabs>
                     <Tab>Procesadores</Tab>
                     <Tab>Tarjetas Gráficas</Tab>
-                    <Tab>Almacenamientos</Tab>
+                    <Tab>Almacenamiento</Tab>
                     <Tab>Memorias RAM</Tab>
                     <Tab>Gabinetes</Tab>
                     <Tab>Ventiladores</Tab>
